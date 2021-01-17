@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<SavedSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PortNumber>COM2</PortNumber>
+  <Minthreshold>20</Minthreshold>
+  <Threshold>-1</Threshold>
+  <FileCount>44</FileCount>
+</SavedSettings>
